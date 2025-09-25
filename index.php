@@ -6994,7 +6994,7 @@ comprehensive library, and a learning-friendly environment.</p>								</div>
 				</div>
 				</footer>
 
-<iframe src="http://localhost/chatbot/chats/shu2/demo/" width="500" height="600" style="border:none; position:fixed; bottom:20px; right:20px; z-index:6400; max-width:100%;"></iframe>
+<iframe src="https://markcodex-hrc2edezd8crh2ac.southeastasia-01.azurewebsites.net/demo/" width="500" height="600" style="border:none; position:fixed; bottom:20px; right:20px; z-index:6400; max-width:100%;"></iframe>
 
 				<div id="ast-mobile-popup-wrapper">
 			<div id="ast-mobile-popup" class="ast-mobile-popup-drawer content-align-flex-start ast-mobile-popup-full-width">
